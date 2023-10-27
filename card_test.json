@@ -1,0 +1,11 @@
+{
+    "card_uid": 12345,
+    "bad_answers": [
+        "answer1"
+        ],
+
+    "good_answers": [
+            "answer1",
+            "answer2"
+        ]
+}

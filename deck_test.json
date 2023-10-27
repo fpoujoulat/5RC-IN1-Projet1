@@ -1,0 +1,139 @@
+{
+    "deck_title": "Histoire Hardcore",
+    "author": "moi",
+    "date": "YYYY-MM-DD",
+    "version": 0.1,
+
+    "cards" : [
+    {
+        "card_uid": 1,
+        "question": "Lequel de ces pays n'a jamais existé ?",
+        "bad_answers": [
+            "Tannu Tuva",
+            "République d'Ezo"
+            ],
+    
+        "good_answers": [
+            "Eniram"
+            ]
+    },
+    
+    {
+        "card_uid": 2,
+        "question": "Lequel de ces pays d'Afrique a été indépendant le plus longtemps ?",
+        "bad_answers": [
+            "Swaziland",
+            "Congo"
+            ],
+    
+        "good_answers": [
+            "Ethiopie"
+            ]
+    },
+
+    {
+        "card_uid": 3,
+        "question": "Lequel de ces pays ne faisait pas partie de l'Alliance des Huit-Nations ?",
+        "bad_answers": [
+            "Japon",
+            "France"
+            ],
+    
+        "good_answers": [
+            "Turquie"
+            ]
+    },
+
+    {
+        "card_uid": 4,
+        "question": "La dynastie des Qinq était d'origine :",
+        "bad_answers": [
+            "Han",
+            "Hui"
+            ],
+    
+        "good_answers": [
+            "Mandchoue"
+            ]
+    },
+
+    {
+        "card_uid": 5,
+        "question": "Lequel de ces peuples amérindiens a été le premier a disposer d'un alphabet natif ?",
+        "bad_answers": [
+            "Les Inuits",
+            "Les Comanches"
+            ],
+    
+        "good_answers": [
+            "Les Cherokees"
+            ]
+    },
+
+    {
+        "card_uid": 6,
+        "question": "Dans quel pays a été conçu le premier avion à réaction civil ?",
+        "bad_answers": [
+            "En Union Soviétique",
+            "Aux Etats-Unis"
+            ],
+    
+        "good_answers": [
+            "Au Royaume-Uni"
+            ]
+    },
+    
+    {
+        "card_uid": 7,
+        "question": "Lequel de ces textes est le plus ancien ?",
+        "bad_answers": [
+            "Le Bhagavad-Gita",
+            "Le Kalevala"
+            ],
+    
+        "good_answers": [
+            "L'Epopée de Gilgamesh"
+            ]
+    },
+
+    {
+        "card_uid": 8,
+        "question": "Lequel de ces pays était non-aligné pendant la Guerre Froide ?",
+        "bad_answers": [
+            "La Hongrie",
+            "Le Portugal"
+            ],
+    
+        "good_answers": [
+            "L'Autriche"
+            ]
+    },
+
+    {
+        "card_uid": 9,
+        "question": "Lequel de ces territoires n'a jamais fait partie des possessions de Charles V",
+        "bad_answers": [
+            "La Bourgogne",
+            "Les Pays-Bas"
+            ],
+    
+        "good_answers": [
+            "Le Portugal"
+            ]
+    },
+
+    {
+        "card_uid": 10,
+        "question": "Lequel de ces mots vient du Sumérien ?",
+        "bad_answers": [
+            "Tarif",
+            "Scimeterre"
+            ],
+    
+        "good_answers": [
+            "Haram"
+            ]
+    }
+
+    ]
+}
